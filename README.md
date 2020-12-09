@@ -24,7 +24,7 @@ yabai -m signal --add event=window_created \
     action="osascript -e 'tell application \"Übersicht\" to refresh widget id \"desk-bar-jsx\"'"
 ```
 <sup>1</sup>: `yabai` does not currently have support for events such as `space_destroyed`, `space_created`,
-`space_renamed`,so you'll have to add refreshing for those events manually
+`space_renamed`, so you'll have to add refreshing for those events manually
 
 
 
