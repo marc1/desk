@@ -5,6 +5,8 @@ window manager integration.
 Uses [Ubersicht](https://github.com/felixhageloh/uebersicht) for rendering the components
 with `React`.
 
+![screenshot](ss.png)
+
 # Usage
 Install in widgets folder
 ```
