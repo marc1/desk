@@ -1,6 +1,8 @@
 # desk
-A stupidly simple menu bar for macOS desktops with the [https://github.com/koekeishiya/yabai](yabai)
+A stupidly simple menu bar for macOS desktops with the [yabai](https://github.com/koekeishiya/yabai)
 window manager integration.
+
+Uses [Ubersicht](https://github.com/felixhageloh/uebersicht) 
 
 # Usage
 Install in widgets folder
